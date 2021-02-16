@@ -1,0 +1,10 @@
+/* {
+  "Category": "Autistic",
+  "Cost": "10",
+  "Description": "abc-1",
+  "LastUpd": "20190731T053533Z",
+  "Rating": "None",
+  "TemplateId": "d7c542e8f36015e58bc3e02e0387f576",
+  "TemplateName": "test_template-1",
+  "UserId": "user1"
+} */

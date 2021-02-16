@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "771181439962",
+    "firebase_url": "https://gifts-c5778.firebaseio.com",
+    "project_id": "gifts-c5778",
+    "storage_bucket": "gifts-c5778.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771181439962:android:41f43b487bd5545d396ee3",
+        "android_client_info": {
+          "package_name": "com.tritone.gifts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771181439962-5uir55i4mvjaqp1tnftkc4ia3euspu9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9Aj27tT-dOoVuUqIMBeF-ntTkyUw7ouU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771181439962-5uir55i4mvjaqp1tnftkc4ia3euspu9n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

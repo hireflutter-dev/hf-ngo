@@ -1,0 +1,17 @@
+import 'package:flutter/foundation.dart';
+
+class FavoritesProvider with ChangeNotifier {
+
+  bool showFavorites = false;
+
+  Future<void> favoriteFilter(ngoTitle, ngoId) async {
+    eventNgoTitle = ngoTitle;
+    eventNgoId = ngoId;
+    print('in provider: $eventNgoTitle | $eventNgoTitle');
+
+    notifyListeners();
+  }
+
+
+  
+}
